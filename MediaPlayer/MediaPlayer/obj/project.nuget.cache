@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xyp2JSMN3rs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onerp\\Downloads\\MediaPlayer\\MediaPlayer\\MediaPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onerp\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\onerp\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
+  ],
+  "logs": []
+}
